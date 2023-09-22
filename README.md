@@ -6,7 +6,7 @@
 
 
 
-# <h1 align="center" id="heading"># Project Title-Team Members: Person 1, Person 2
+# <h1 align="center" id="heading"># Project Title-Team Members: Gretha, Aleli
 </h1>
 
 
@@ -34,5 +34,5 @@ data.csv: Describe dataset
 ### Team Members
 
 Our team consists of the following members:
-Gretha 
-Aleli
+- Gretha 
+- Aleli
